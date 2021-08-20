@@ -1,0 +1,52 @@
+[
+    {
+      "firstName": "Sachin",
+      "lastName": "Singh",
+      "email": "sachin.singh@gmail.com",
+      "role": "Designer",
+      "phonenumber": "8965237899",
+      "address":"Delhi"
+    },
+    {
+        "firstName": "Aman",
+        "lastName": "Mishra",
+        "email": "aman.mishra@gmail.com",
+        "role": "Analyst",
+        "phonenumber": "9834567091",
+        "address":"Pune"
+    },
+    {
+        "firstName": "Satyam",
+        "lastName": "Singh",
+        "email": "satyam.singh@gmail.com",
+        "role": "Developer",
+        "phonenumber": "6711109632",
+        "address":"Bhopal"
+    },
+    
+    {
+        "firstName": "Mohit",
+        "lastName": "Sheik",
+        "email": "mohit.sheik@gmail.com",
+        "role": "Designer",
+        "phonenumber": "6636754860",
+        "address":"Delhi"
+    },
+    {
+        "firstName": "Vihaan",
+        "lastName": "Singh",
+        "email": "vihaan.singh@gmail.com",
+        "role": "Analyst",
+        "phonenumber": "7754289651",
+        "address":"Hyderabad"
+    },
+
+    {
+    "firstName": "Ankit",
+      "lastName": "Jain",
+      "email": "ankit.jain@gmail.com",
+      "role": "Designer",
+      "phonenumber": "9914573822",
+      "address":"Chennai"
+    }
+  ]
